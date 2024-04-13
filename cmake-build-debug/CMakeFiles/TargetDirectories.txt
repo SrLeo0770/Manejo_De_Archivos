@@ -1,0 +1,3 @@
+C:/C++/PRUEBA 23/03/Manejo_De_Archivos/cmake-build-debug/CMakeFiles/Manejo_De_Archivos.dir
+C:/C++/PRUEBA 23/03/Manejo_De_Archivos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C++/PRUEBA 23/03/Manejo_De_Archivos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
